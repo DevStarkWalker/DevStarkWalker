@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Devon Walker, and I am a senior at Old Dominion University studying Game design.
 
 <!--
 **DevStarkWalker/DevStarkWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
